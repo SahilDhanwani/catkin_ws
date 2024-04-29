@@ -131,7 +131,11 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/sahil/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/sahil/catkin_ws/build/openslam_gmapping/cmake_install.cmake")
+  include("/home/sahil/catkin_ws/build/slam_gmapping/slam_gmapping/cmake_install.cmake")
   include("/home/sahil/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
+  include("/home/sahil/catkin_ws/build/foobar/cmake_install.cmake")
+  include("/home/sahil/catkin_ws/build/slam_gmapping/gmapping/cmake_install.cmake")
 
 endif()
 
