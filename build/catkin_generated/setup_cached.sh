@@ -5,7 +5,7 @@
 # it emulates the modifications of the setup script without recurring computations
 
 # new environment variables
-export ROS_MASTER_URI='http://localhost:11311'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/sahil/catkin_ws/devel/share/common-lisp'
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/sahil/catkin_ws/devel:$CMAKE_PREFIX_PATH"
