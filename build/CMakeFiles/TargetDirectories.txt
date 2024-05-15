@@ -69,6 +69,13 @@
 /home/sahil/catkin_ws/build/slam_gmapping/slam_gmapping/CMakeFiles/rebuild_cache.dir
 /home/sahil/catkin_ws/build/slam_gmapping/slam_gmapping/CMakeFiles/edit_cache.dir
 /home/sahil/catkin_ws/build/slam_gmapping/slam_gmapping/CMakeFiles/test.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/install/strip.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/install/local.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/install.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/list_install_components.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/rebuild_cache.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/edit_cache.dir
+/home/sahil/catkin_ws/build/turtle_play/CMakeFiles/test.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/install/strip.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/install.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/list_install_components.dir

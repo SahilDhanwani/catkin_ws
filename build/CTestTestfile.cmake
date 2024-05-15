@@ -7,6 +7,7 @@
 subdirs("gtest")
 subdirs("openslam_gmapping")
 subdirs("slam_gmapping/slam_gmapping")
+subdirs("turtle_play")
 subdirs("beginner_tutorials")
 subdirs("foobar")
 subdirs("slam_gmapping/gmapping")
