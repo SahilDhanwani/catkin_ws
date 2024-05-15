@@ -76,6 +76,13 @@
 /home/sahil/catkin_ws/build/turtle_play/CMakeFiles/rebuild_cache.dir
 /home/sahil/catkin_ws/build/turtle_play/CMakeFiles/edit_cache.dir
 /home/sahil/catkin_ws/build/turtle_play/CMakeFiles/test.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/install/strip.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/install/local.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/install.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/list_install_components.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/rebuild_cache.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/edit_cache.dir
+/home/sahil/catkin_ws/build/turtle_trial/CMakeFiles/test.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/install/strip.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/install.dir
 /home/sahil/catkin_ws/build/beginner_tutorials/CMakeFiles/list_install_components.dir
