@@ -1,2 +1,2 @@
-beginner_tutorials:foobar:openslam_gmapping:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:turtle_play:turtle_trial
--DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/sahil/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sahil/catkin_ws/install -G Unix Makefiles
+beginner_tutorials:foobar:openslam_gmapping:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/sahil/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sahil/catkin_ws/install -G Unix Makefiles

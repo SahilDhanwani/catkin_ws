@@ -56,8 +56,6 @@ CMAKE_BINARY_DIR = /home/sahil/catkin_ws/build
 all: gtest/all
 all: openslam_gmapping/all
 all: slam_gmapping/slam_gmapping/all
-all: turtle_play/all
-all: turtle_trial/all
 all: beginner_tutorials/all
 all: foobar/all
 all: slam_gmapping/gmapping/all
@@ -68,8 +66,6 @@ all: slam_gmapping/gmapping/all
 preinstall: gtest/preinstall
 preinstall: openslam_gmapping/preinstall
 preinstall: slam_gmapping/slam_gmapping/preinstall
-preinstall: turtle_play/preinstall
-preinstall: turtle_trial/preinstall
 preinstall: beginner_tutorials/preinstall
 preinstall: foobar/preinstall
 preinstall: slam_gmapping/gmapping/preinstall
@@ -85,8 +81,6 @@ clean: CMakeFiles/download_extra_data.dir/clean
 clean: gtest/clean
 clean: openslam_gmapping/clean
 clean: slam_gmapping/slam_gmapping/clean
-clean: turtle_play/clean
-clean: turtle_trial/clean
 clean: beginner_tutorials/clean
 clean: foobar/clean
 clean: slam_gmapping/gmapping/clean
@@ -384,42 +378,6 @@ slam_gmapping/slam_gmapping/preinstall:
 slam_gmapping/slam_gmapping/clean:
 
 .PHONY : slam_gmapping/slam_gmapping/clean
-
-#=============================================================================
-# Directory level rules for directory turtle_play
-
-# Recursive "all" directory target.
-turtle_play/all:
-
-.PHONY : turtle_play/all
-
-# Recursive "preinstall" directory target.
-turtle_play/preinstall:
-
-.PHONY : turtle_play/preinstall
-
-# Recursive "clean" directory target.
-turtle_play/clean:
-
-.PHONY : turtle_play/clean
-
-#=============================================================================
-# Directory level rules for directory turtle_trial
-
-# Recursive "all" directory target.
-turtle_trial/all:
-
-.PHONY : turtle_trial/all
-
-# Recursive "preinstall" directory target.
-turtle_trial/preinstall:
-
-.PHONY : turtle_trial/preinstall
-
-# Recursive "clean" directory target.
-turtle_trial/clean:
-
-.PHONY : turtle_trial/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/doxygen.dir
