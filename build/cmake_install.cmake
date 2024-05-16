@@ -135,6 +135,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/sahil/catkin_ws/build/slam_gmapping/slam_gmapping/cmake_install.cmake")
   include("/home/sahil/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
   include("/home/sahil/catkin_ws/build/foobar/cmake_install.cmake")
+  include("/home/sahil/catkin_ws/build/hello/cmake_install.cmake")
   include("/home/sahil/catkin_ws/build/slam_gmapping/gmapping/cmake_install.cmake")
 
 endif()

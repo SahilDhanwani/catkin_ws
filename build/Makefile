@@ -961,6 +961,32 @@ talker/fast:
 .PHONY : talker/fast
 
 #=============================================================================
+# Target rules for targets named mouth
+
+# Build rule for target.
+mouth: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 mouth
+.PHONY : mouth
+
+# fast build rule for target.
+mouth/fast:
+	$(MAKE) -f hello/CMakeFiles/mouth.dir/build.make hello/CMakeFiles/mouth.dir/build
+.PHONY : mouth/fast
+
+#=============================================================================
+# Target rules for targets named ear
+
+# Build rule for target.
+ear: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 ear
+.PHONY : ear
+
+# fast build rule for target.
+ear/fast:
+	$(MAKE) -f hello/CMakeFiles/ear.dir/build.make hello/CMakeFiles/ear.dir/build
+.PHONY : ear/fast
+
+#=============================================================================
 # Target rules for targets named _run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test
 
 # Build rule for target.
@@ -1970,6 +1996,8 @@ help:
 	@echo "... beginner_tutorials_gennodejs"
 	@echo "... std_msgs_generate_messages_nodejs"
 	@echo "... talker"
+	@echo "... mouth"
+	@echo "... ear"
 	@echo "... _run_tests_gmapping_rostest_test_basic_localization_laser_different_beamcount.test"
 	@echo "... _run_tests_gmapping_rostest_test_basic_localization_upside_down.launch"
 	@echo "... run_tests_gmapping_rostest_test_basic_localization_upside_down.launch"

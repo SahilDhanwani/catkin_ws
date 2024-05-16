@@ -115,6 +115,15 @@
 /home/sahil/catkin_ws/build/foobar/CMakeFiles/rebuild_cache.dir
 /home/sahil/catkin_ws/build/foobar/CMakeFiles/edit_cache.dir
 /home/sahil/catkin_ws/build/foobar/CMakeFiles/test.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/install/strip.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/install/local.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/install.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/list_install_components.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/rebuild_cache.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/edit_cache.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/test.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/mouth.dir
+/home/sahil/catkin_ws/build/hello/CMakeFiles/ear.dir
 /home/sahil/catkin_ws/build/slam_gmapping/gmapping/CMakeFiles/install/strip.dir
 /home/sahil/catkin_ws/build/slam_gmapping/gmapping/CMakeFiles/install.dir
 /home/sahil/catkin_ws/build/slam_gmapping/gmapping/CMakeFiles/list_install_components.dir
