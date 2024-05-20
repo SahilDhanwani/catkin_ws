@@ -11,8 +11,6 @@ ros/ros.h
 /home/sahil/catkin_ws/src/hello/src/ros/ros.h
 geometry_msgs/Twist.h
 /home/sahil/catkin_ws/src/hello/src/geometry_msgs/Twist.h
-sstream
--
 
 /opt/ros/noetic/include/geometry_msgs/Twist.h
 string
