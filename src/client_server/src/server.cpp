@@ -10,9 +10,9 @@ bool callback(std_srvs::SetBool::Request &req, std_srvs::SetBool::Response &res)
 int main(int argc, char **argv)
 {
   ros::init(argc, argv, "server");
-  ros::NodeHandle nh;
+  ros::NodeHandle n;
 
-  ros::ServiceServer server = nh.advertiseService("set_bool", callback);
+  ros::ServiceServer server = n.advertiseService("set_bool", callback);
 
   ros::spin();
   return 0;
